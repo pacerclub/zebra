@@ -3,6 +3,8 @@ A decentralized AI-driven coding platform where users contribute to large-scale 
 
 > [!Note]
 > This document will be updated as the project develops.
+> 
+> **Zebra** is the working codename for this project. The official name will be determined as the project progresses.
 
 ## 🧩 Technologies Used
 - **Backend (Server-side logic)**: Go
