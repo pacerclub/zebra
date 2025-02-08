@@ -1,5 +1,5 @@
 # Zebra
-A decentralized AI-driven coding platform where users contribute to large-scale projects through skill-based task assignments. AI handles task distribution, code integration, optimization, quality assurance, and real-time feedback. It fosters global collaboration for rapid software development, supporting both open-source and enterprise projects.
+A decentralized AI-driven coding platform where users contribute to large-scale projects through skill-based task assignments. AI handles task distribution, code integration, optimization, quality assurance, and real-time feedback. 
 
 ## 🧩 Technologies Used
 - **Backend (Server-side logic)**: Go
