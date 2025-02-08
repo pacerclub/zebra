@@ -1,1 +1,3 @@
 # zebra
+
+A decentralized AI collaborative programming platform where users can participate in the development of large-scale projects. Each user is assigned a small portion of tasks based on their own skills, and AI will be responsible for intelligently integrating these independent code segments. The platform uses AI to automatically assign tasks, merge codes, optimize performance, ensure overall code quality, and provide real-time feedback and suggestions. This approach can stimulate developers' creativity and promote collaboration among global developers to quickly build powerful software. The platform is not only suitable for open source projects, but also provides customized development collaboration tools for companies.
