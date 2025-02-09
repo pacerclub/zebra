@@ -1,30 +1,45 @@
-# Zebra
-A decentralized AI-driven coding platform where users contribute to large-scale projects through skill-based task assignments. AI handles task distribution, code integration, optimization, quality assurance, and real-time feedback. 
+# 🦓 Zebra Work Log  
+
+Zebra Work Log is an intelligent work logging tool for developers. It helps you track work time, document progress, and generate structured development logs with AI-powered insights.  
 
 > [!Note]
 > This document will be updated as the project develops.
 > 
 > **Zebra** is the working codename for this project. The official name will be determined as the project progresses.
 
+<br>
+
+## ✨ Core Features  
+
+### ⏳ Timer & Work Tracking  
+- Start a timer to record your work time.  
+- Pause and resume as needed.  
+
+### 📥 Multiple Input Methods  
+- **GitHub Integration**: Automatically link commit records.  
+- **Voice Input**: Describe your progress, and it will be transcribed to text.  
+- **Media Support**: Add photos, screenshots, and code snippets.  
+- **Text Notes**: Draft notes or structured logs.  
+
+### 🤖 AI-Powered Organization  
+- **Automatic Summaries**: Key progress points are extracted.  
+- **Technical Highlights**: Identifies important concepts, issues, and TODOs.  
+- **Structured Dev Logs**: Converts inputs into an organized work journal.  
+
+### 📄 Documentation & Export  
+- Generates a **reviewable engineering log**.  
+- Supports export to **Markdown and PDF**.  
+
+### 🌍 Community & Motivation (Optional)  
+- **Public Log Sharing** (opt-in).  
+- **Time & Contribution Statistics** for tracking productivity and hackathon rewards.
+
+<br>
+
 ## 🧩 Technologies Used
-- **Backend (Server-side logic)**: Go
+- **Backend**: Go + PostgreSQL
 - **AI Support**: Node.js to connect with OpenAI
-- **Frontend (User interface)**: Next.js
-- **Database (Data storage)**: Still deciding (PostgreSQL, MongoDB, or another option)
-- **User Login**: GitHub OAuth
-- **Hosting (Where it runs)**: Still deciding (Cloud service or self-hosted)
+- **Frontend**: Next.js
+- **GitHub Integration**: OAuth login, commit data extraction  
   
-## ⚡ Key Features
-- AI helps break down coding tasks and assigns them to users.
-- GitHub integration so users can easily contribute.
-- A website where users can write and submit code.
-- Automatic merging of contributions.
-- A community-driven way to build software together.
-
-## 🚀 Future Goals
-- Improve AI to review and improve submitted code.
-- Create a ranking system to reward helpful contributors.
-- Support more programming languages and tools.
-- Allow integration with popular coding software like VS Code and JetBrains.
-
 
