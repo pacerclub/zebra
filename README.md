@@ -7,8 +7,6 @@ Zebra Work Log is an intelligent work logging tool for developers. It helps you 
 > 
 > **Zebra** is the working codename for this project. The official name will be determined as the project progresses.
 
-<br>
-
 ## ✨ Core Features  
 
 ### ⏳ Timer & Work Tracking  
@@ -34,12 +32,18 @@ Zebra Work Log is an intelligent work logging tool for developers. It helps you 
 - **Public Log Sharing** (opt-in).  
 - **Time & Contribution Statistics** for tracking productivity and hackathon rewards.
 
-<br>
-
 ## 🧩 Technologies Used
 - **Backend**: Go + PostgreSQL
 - **AI Support**: Node.js to connect with OpenAI
 - **Frontend**: Next.js
 - **GitHub Integration**: OAuth login, commit data extraction  
   
+## 🤝 Contributing
+We're welcome to contributions. Feel free to open issues or PRs.
+
+## 📜 License
+This project is licensed under the [AGPL 3.0 License](LICENSE).
+
+## 📧 Contact
+For any inquiries, contact [Zigao Wang](https://github.com/ZigaoWang) or [July Wu](https://github.com/JLW-7).
 
